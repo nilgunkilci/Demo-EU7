@@ -1,0 +1,1 @@
+Bu repostory e herhangi bir push yapilirsa Jenkis Github-Webhook job otomatik tetiklenecek
